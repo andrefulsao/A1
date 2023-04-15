@@ -1,0 +1,52 @@
+.texto-principal {
+    margin: 5em auto;
+    width: 980px;
+    position: relative;
+    text-align: center;
+}
+
+.texto-principal strong {
+    color: #646464;
+}
+.texto-principal h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #818181;
+}
+.texto-principal p {
+    font-size: 15px;
+    color: #9a9a9a;
+}
+
+.col-101 {
+    height: 440px;    
+    width: 50%;
+    float: left;
+    position: relative;
+}
+
+.beneficios{
+    margin: 0 auto;
+    width: 440px;
+    position: relative;
+    text-align: center;
+    top: 30%;
+}
+
+.beneficios h2 {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #646464;
+}
+.beneficios li {
+    margin-top: 0.3em;
+    font-size: 15px;
+    color: #9a9a9a;
+    list-style: none;
+}
+
+.col-102 {  
+    width: 50%;
+    float: right;
+    position: relative;
+}

@@ -1,0 +1,99 @@
+.col {
+    height: 540px;
+    margin-top: 8em;
+    text-align: center;
+    position: relative;
+}
+
+.col-2 {
+    height: 500px;
+    text-align: center;
+    position: relative;
+}
+
+.texto-principal {
+    margin: 5em auto;
+}
+
+.texto-principal h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #818181;
+    position: relative;
+    text-align: center;
+}
+
+.beneficios {
+    height: 50%;
+    width: 50%;
+    margin: 5em auto;
+    position: relative;
+    text-align: center;
+}
+
+.beneficios h2 {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #646464;
+}
+
+.beneficios p {
+    font-size: 20px;
+    color: #9a9a9a;
+    margin-bottom: 2em;
+}
+
+.col-101 {
+    width: 50%;
+    float: left;
+}
+
+.col-102 {
+    width: 50%;
+    float: right;
+}
+
+.col-103 {
+    width: 50%;
+    float: left;
+    left: 3%;
+}
+
+.col-104 {
+    width: 50%;
+    float: right;
+    left: 3%;
+}
+
+.img1 {
+    height: 80%;
+    width: 80%;
+    object-fit: contain;
+}
+
+.img2 {
+    height: 80%;
+    width: 80%;
+    object-fit: contain;
+}
+
+.link {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #090909;
+    padding: 0.7em 1.7em;
+    font-size: 18px;
+    border-radius: 0.5em;
+    background: #e8e8e8;
+    border: 1px solid #e8e8e8;
+    transition: all .3s;
+    box-shadow: 6px 6px 12px #c5c5c5,
+        -6px -6px 12px #ffffff;
+}
+
+.link:active {
+    color: #666;
+    box-shadow: inset 4px 4px 12px #c5c5c5,
+        inset -4px -4px 12px #ffffff;
+}
